@@ -31,7 +31,7 @@ export function About() {
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
-          <p>I specialize in Java and C++, leveraging them to craft efficient and robust solutions. My expertise extends to Flutter development, where I create seamless and dynamic user interfaces. On the backend, I am proficient in Node.js, enabling me to build scalable and high-performance server-side applications. Additionally, I have experience with Firebase for real-time databases and authentication, and I have explored AI integration using models like LLaMA and Qwen for data-driven applications. My hands-on experience with full-stack development, along with my problem-solving skills, allows me to build innovative and impactful solutions.
+          <p> I have a strong foundation in backend systems, problem-solving, and DSA, which helps me understand how things work under the hood. I've led hackathons, conducted workshops, and actively contribute to the Apple Developers Club and IEEE CS Club at VIT. My internships at Phool.co and DocPlus gave me hands-on experience in both software development and business operations. Always eager to learn and explore new technologies, I strive to build impactful solutions while continuously growing as an engineer.
           </p>
         </ScrollAnimation>
         
