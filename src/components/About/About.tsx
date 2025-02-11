@@ -27,12 +27,12 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          Hello there! I'm a passionate and dedicated software engineer currently pursuing my B.Tech in Computer Science Engineering at VIT Vellore, currently in my third year. My journey in the world of programming has been both challenging and exhilarating, and I thrive on the opportunities to expand my knowledge and skills.
+          Hello there! I'm a passionate and dedicated software engineer currently in my final year of B.Tech in Computer Science Engineering at VIT Vellore. My journey in the world of programming has been both challenging and exhilarating, and I thrive on opportunities to expand my knowledge and skills. With expertise in Java, Flutter, Python, and backend development, I have worked on various projects, including AI-driven applications, mobile development, and full-stack solutions. I'm always eager to learn new technologies and explore innovative problem-solving approaches.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
-          <p>
-          I specialize in languages such as Java and C++, leveraging them to craft efficient and robust solutions. My expertise extends to Flutter development, where I create seamless and dynamic user interfaces. When it comes to the backend, I am well-versed in Node.js, enabling me to build scalable and responsive server-side applications.</p>
+          <p>I specialize in Java and C++, leveraging them to craft efficient and robust solutions. My expertise extends to Flutter development, where I create seamless and dynamic user interfaces. On the backend, I am proficient in Node.js, enabling me to build scalable and high-performance server-side applications. Additionally, I have experience with Firebase for real-time databases and authentication, and I have explored AI integration using models like LLaMA and Qwen for data-driven applications. My hands-on experience with full-stack development, along with my problem-solving skills, allows me to build innovative and impactful solutions.
+          </p>
         </ScrollAnimation>
         
         
