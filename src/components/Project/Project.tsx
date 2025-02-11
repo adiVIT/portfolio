@@ -18,15 +18,15 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://github.com/adiVIT/otp" target="_blank" rel="noreferrer">
+                <a href="https://github.com/adiVIT/Voice-Activated-Banking-Assistant" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Otp Verification app</h3>
+              <h3>Voice-Activated Banking Assistant</h3>
               <p>
-              The Firebase OTP Verification App is a powerful and secure tool designed to simplify the process of sending and verifying One-Time Passwords (OTPs) for user authentication. Leveraging the robust capabilities of Firebase, this app ensures a seamless and trustworthy experience for both users and developers
+              Developed a voice-controlled banking assistant using Python and SQLite, enabling secure and convenient financial transactions through natural language processing.
               </p>
             </div>
             
@@ -38,15 +38,15 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://github.com/adiVIT/photoFrame" target="_blank" rel="noreferrer">
+                <a href="https://github.com/adiVIT/HonReview" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Photo Frame App</h3>
+              <h3>Honest Review</h3>
               <p>
-              Discover the Flutter Image Mask & Effects App, your gateway to creating stunning and captivating photo frames with artistic effects. Unleash your creativity and transform ordinary photos into extraordinary works of art with our user-friendly and feature-rich application.
+              Built and deployed Honereview using Next.js, TypeScript, and MongoDB, enabling anonymous reviews with AI-generated suggestions and a minimal UI dashboard.
               </p>
             </div>
             
@@ -58,15 +58,15 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://github.com/adiVIT/news-app" target="_blank" rel="noreferrer">
+                <a href="https://github.com/adiVIT/Dropit" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Daily News app</h3>
+              <h3>DROP IT</h3>
               <p>
-              Seamlessly scroll through breaking news and trending stories for an effortlessly dynamic news experience.
+              Developed a chatbot-based delivery coordination app for VIT Vellore, enabling users to request and offer pickup services within the campus. Integrated Firebase for authentication and real-time communication, with plans to enhance navigation using maps.
               </p>
             </div>
             
@@ -80,15 +80,56 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://github.com/adiVIT/Crypto_Exchange" target="_blank" rel="noreferrer">
+                <a href="https://github.com/adiVIT/FileHoster" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Crypto Converter</h3>
+              <h3>FileHoster</h3>
               <p>
-              Effortlessly track real-time cryptocurrency prices with our API-powered converter app, providing instant and accurate conversions for all your crypto needs.
+              Go File Manager is a robust and scalable file management system built with Go. It provides secure file storage, retrieval, and sharing capabilities, along with user authentication and caching for improved performance.
+              </p>
+            </div>
+            
+          </div>
+
+        </ScrollAnimation>
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <div className="project-links">
+                <a href="https://github.com/adiVIT/photoFrame" target="_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>PhotoFram</h3>
+              <p>
+              A photo frame application that allows users to add filters and effects to their photos, enhancing them with creative customizations.
+              </p>
+            </div>
+            
+          </div>
+        </ScrollAnimation>
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <div className="project-links">
+                <a href="https://github.com/adiVIT/ChatAppr" target="_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>Chatting App</h3>
+              <p>
+              A real-time chatting application with email authentication using Firebase, enabling seamless user communication.
               </p>
             </div>
             

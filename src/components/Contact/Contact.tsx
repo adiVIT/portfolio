@@ -20,7 +20,7 @@ export function Contact(){
         </div>
         <div>
         <a href="tel:+917651820026"><img src={phoneIcon} alt="Phone No" /></a>
-          <a href="tel:+919630576848">(+91) 7651820026</a>
+          <a href="tel:+917651820026">(+91)7651820026</a>
         </div>  
       </div>
       <Form></Form>
