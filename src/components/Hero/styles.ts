@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.section`
-  padding-top: 15%;
+  padding-top: calc(15% + 120px); /* Account for banner + header height */
   display: flex;
   justify-content: space-between;
   gap: 8rem;
@@ -54,7 +54,7 @@ export const Container = styled.section`
 
   @media(max-width: 960px){
     display: block;
-    margin-top: 15%;
+    padding-top: calc(15% + 120px); /* Account for banner + header on mobile too */
     .hero-text{
 
       h1{
@@ -68,9 +68,9 @@ export const Container = styled.section`
   }
 
   @media(max-width: 600px){
-    margin-top: 35%;
+    padding-top: calc(35% + 120px);
   }
   @media(max-width: 480px){
-    margin-top: 45%;
+    padding-top: calc(45% + 120px);
   }
 `

@@ -12,10 +12,10 @@ export const Container = styled.header`
   backdrop-filter: blur(6px);
 
   position: fixed;
-  top: 0;
+  top: 60px; /* Account for banner height */
   left: 0;
   width: 100vw;
-  z-index: 1000;
+  z-index: 999; /* Lower than banner */
 
   nav{
     display: flex;
@@ -164,9 +164,9 @@ export const Container = styled.header`
       align-items: center;
       position: fixed;
       width: 100vw;
-      height: 100vh;
+      height: calc(100vh - 60px); /* Subtract banner height */
       background: var(--blue);
-      top: 0;
+      top: 60px; /* Account for banner height */
       left: 0;
       transition: opacity 0.25s;
       background-color: var(--green);
